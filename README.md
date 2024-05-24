@@ -1,5 +1,5 @@
 # campus-bank-full-stack-project
-it is a local bank which helps for students inside campus to do transaction using thier admission numbers.
+it is a local bank which helps for students inside campus to do transaction using their admission numbers.
 
 
 first install some node modules which are required using the commands 
